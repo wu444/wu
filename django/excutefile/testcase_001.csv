@@ -1,0 +1,3 @@
+NO,case name,test function,relaation,method,url,header,body,result,code,assert,execute,pass by,time
+1,login,获取登录cookie,Y,post,http://180.168.51.110:10021/LIMSSF/Login?ReturnUrl=%2FLIMSSF%2F,,"{'UserName':'admin','Password':'11111'}",,,,Y,,
+2,login,获取登录cookie,,post,http://180.168.51.110:10021/LIMSSF/Login?ReturnUrl=%2FLIMSSF%2F,,"{'UserName':'admin','Password':'11111'}",,,,N,,
